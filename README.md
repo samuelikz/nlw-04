@@ -11,7 +11,7 @@ Trilha nlw#4 [#Rocketseat](https://rocketseat.com.br/).
 ### :speech_balloon: Tecnologias 
 
 - API nodejs
-- Typescripty 
+- Typescript
 
 <h1 align="center">
     <img alt="Bikcraft" title="Rockeatseat" src="https://yt3.ggpht.com/a-/AN66SAwEmAP0WiZxLuzJ_prRn4DduPMIMUiPpzBuZg=s900-mo-c-c0xffffffff-rj-k-no" width="120px" />
